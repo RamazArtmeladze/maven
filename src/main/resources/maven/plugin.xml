@@ -1,0 +1,6 @@
+<plugin>
+    <name>style-check</name>
+    <description>A Maven plugin for style checking</description>
+    <goalPrefix>style-check</goalPrefix>
+    <requiresProject>true</requiresProject>
+</plugin>
